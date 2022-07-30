@@ -1,0 +1,94 @@
+{
+    "museum": [
+        {
+            "photo": "https://live.staticflickr.com/65535/52251159579_be48671c65_b.jpg",
+            "title": "Museu Sankofa Memória e História da Rocinha",
+            "resume": "Tem como principal prática, promover a interação dos moradores a partir de suas histórias e afinidades. Visando o conhecimento do passado e cultura da Rocinha, sempre através do olhar de quem conhece a comunidade.O trabalho está diretamente ligado a autoestima dos moradores, possibilitando a mudança de postura e fortalecimento de suas raízes culturais e afetivas.",
+            "report": "#",
+            "website": "http://museudarocinha.blogspot.com.br/",
+            "facebook": "https://www.facebook.com/SankofaRocinha/",
+            "instagram": "https://www.instagram.com/museu_sankofa_da_rocinha/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52250886741_be7ee7c9f6_c.jpg",
+            "title": "Museu de Favela",
+            "resume": "O Museu de Favela – MUF está situado nas favelas do Pavão, Pavãozinho e Cantagalo entre os bairros de Ipanema, Copacabana e Lagoa, zona sul do Rio de Janeiro – área nobre da cidade. O museu foi criado em 2008 por lideranças comunitárias a partir de reuniões da primeira fase do Programa de Aceleração do Crescimento - PAC do Governo Federal. O objetivo do PAC, era deixar ao final uma instituição para a comunidade gerir, dessa forma diversas lideranças da favela foram convocadas a partir da Associação de Moradores e uma comissão foi formada.",
+            "report": "#",
+            "website": "https://www.museudefavela.org/",
+            "facebook": "https://www.facebook.com/museudefavela",
+            "instagram": "https://www.instagram.com/museudefavela/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52250874041_4e8698a7b0_m.jpg",
+            "title": "Cerro Corá - Moradores em Movimento",
+            "resume": "O coletivo Cerro Corá Moradores em Movimento iniciou suas atividades em 2013, época em que diversas remoções estavam sendo realizadas nas comunidades do Rio de Janeiro, fato que influenciou jovens integrantes da comunidade Cerro Corá a unir os moradores frente aos problemas enfrentados coletivamente no cotidiano da favela. As primeiras reuniões do grupo ocorrem em becos, ainda sem noção do que se tornaria a iniciativa nos anos seguintes. Desse processo surgiu a ideia de um museu e o projeto Memórias do Cerro Corá, embrião do museu comunitário, foi criado.",
+            "report": "#",
+            "website": "https://www.facebook.com/Mem%C3%B3rias-do-Cerro-Cor%C3%A1-485648594816054/",
+            "facebook": "#",
+            "instagram": "#"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52250886843_721c2f7ce7_b.jpg",
+            "title": "Museu da Maré",
+            "resume": "O Museu da Maré, inaugurado em 2006, como Ponto de Cultura, com o apoio do Programa Cultura Viva do Ministério da Cultura, foi criado por um grupo de moradores integrantes da ONG CEASM - Centro de Estudo e Ações Solidárias da Maré, formalizada em 1997. A principal motivação para a criação do CEASM, que em 2017 completa 20 anos de ações na comunidade, era ampliar as possibilidades dos jovens moradores da Maré em direção ao ingresso nas universidades públicas.",
+            "report": "#",
+            "website": "https://www.museudamare.org.br/",
+            "facebook": "https://www.facebook.com/museudamare/",
+            "instagram": "https://www.instagram.com/museudamare/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52251159564_21e676e6fc_b.jpg",
+            "title": "Museu das Remoções",
+            "resume": "O Museu das Remoções, localizado na Vila Autódromo, zona oeste do Rio de Janeiro, foi inaugurado em 18 de maio de 2016 por moradores, ex-moradores e parceiros. A ideia surgiu no processo de remoção da comunidade da Vila Autódromo, que teve início em 2014. A demolição das casas foi motivada pelas obras do Parque Olímpico, a partir de uma política de valorização de grandes eventos promovida pela Prefeitura da cidade e da expansão da especulação imobiliária na região da Barra da Tijuca. Eram aproximadamente 700 famílias moradoras da Vila Autódromo, depois desse processo apenas 20 permaneceram na comunidade.",
+            "report": "#",
+            "website": "https://www.facebook.com/museudasremocoes/",
+            "facebook": "#",
+            "instagram": "#"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52251159554_a4b2d5730e_b.jpg",
+            "title": "Raízes de Gericinó",
+            "resume": "A ONG Raízes de Gericinó foi criada em 2010 para dar conta das atividades culturais realizadas por uma família maranhense, moradora de Bangu, Zona Oeste do Rio de Janeiro. Sua principal atividade, uma festa com dança e pratos maranhenses, se realizava uma vez por ano, em junho, na frente da casa da matriarca da família, Dona Rosa Padilha, maranhense e ex-quebradeira de coco babaçu.",
+            "report": "#",
+            "website": "http://raizesdegericino.blogspot.com.br/",
+            "facebook": "https://www.facebook.com/RaizesdeGericino/",
+            "instagram": "https://www.instagram.com/raizesdegericino/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52250886888_6316ee67e3_b.jpg",
+            "title": "Museu Vivo do São Bento",
+            "resume": "O Museu Vivo do São Bento, primeiro museu de percurso da Baixada Fluminense, está localizado no bairro São Bento, segundo distrito de Caxias, e é vinculado ao Centro de Referência Patrimonial e Histórico de Duque de Caxias (CRPH). Foi criado oficialmente pelo Executivo Municipal em 03 de novembro de 2008, no âmbito da Secretaria Municipal de Educação de Duque de Caxias, a partir da reivindicação dos Profissionais da Educação e dos militantes culturais caxienses. Ainda assim, há mais de 20 anos o atual percurso do Museu Vivo do São Bento é visitado por alunos, professores, moradores, pesquisadores, brasileiros e estrangeiros.",
+            "report": "#",
+            "website": "http://www.museuvivodosaobento.com.br",
+            "facebook": "https://www.facebook.com/museuvivodosaobento",
+            "instagram": "https://www.instagram.com/museuvivodosaobento/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52249901512_0572d7fe8e_b.jpg",
+            "title": "Museu do Samba",
+            "resume": "O Centro Cultural Cartola – instituição que abriga o Museu do Samba – foi fundado em 2001 naMangueira pela família de Cartola, sobretudo pelos netos Pedro Paulo Nogueira e Nilcemar Nogueira, a partir da “rede de relações estabelecida pela grande líder Dona Zica”.",
+            "report": "#",
+            "website": "http://museudosamba.org.br/",
+            "facebook": "https://www.facebook.com/museu.do.samba/",
+            "instagram": "https://www.instagram.com/museudosamba/"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52251374035_6609fd6c72_c.jpg",
+            "title": "Casa do Jongo",
+            "resume": "A Casa do Jongo foi inaugurada em novembro de 2015 pelo grupo tradicional Jongo da Serrinha. Ponto de cultura situado no Morro da Serrinha em Madureira o grupo promove desde o fim da década de 60 ações de arte, educação e cultura na comunidade e teve importante papel no reconhecimento do Jongo como Patrimônio Cultural Nacional em 2005 pelo IPHAN.",
+            "report": "#",
+            "website": "http://jongodaserrinha.org/a-casa-do-jongo/",
+            "facebook": "https://www.facebook.com/casadojongo/",
+            "instagram": "#"
+        },
+        {
+            "photo": "https://live.staticflickr.com/65535/52250886828_6e7fc364d3_c.jpg",
+            "title": "Ecomuseu de Ilha Grande",
+            "resume": "Após muitos anos de pesquisa, estudo e maturação do projeto de um ecomuseu na ilha, coordenado pela professora Miriam Sepúlveda e com uma importante participação e contribuição de professores e de lideranças comunitárias de Vila Dois Rios e de Vila do Abraão, foi criado em 2007 o Ecomuseu Ilha Grande. Materializado de fato em 2009 com a inauguração do Museu do Cárcere, criado voltando-se principalmente para a memória prisional e está instalado no prédio onde ficavam os guardas na época ativa do presídio.",
+            "report": "#",
+            "website": "http://ecomuseuilhagrande.eco.br",
+            "facebook": "https://www.facebook.com/Ecomuseu-Ilha-Grande-214672578661027/",
+            "instagram": "https://www.instagram.com/ecomuseuilhagrande/ "
+        }
+    ]
+}
